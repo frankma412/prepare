@@ -26,7 +26,4 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ThriftCompiler">
-    <compilers />
-  </component>
 </project>
